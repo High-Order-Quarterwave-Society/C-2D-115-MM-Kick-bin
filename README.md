@@ -13,7 +13,7 @@ Other designs using the Paraflex principles where made for subwoofer and infraso
 
 
 *3D designs by Ty Cention (KaiRonex)*
-![C2-D-115 Mullins Mod Kickbin]https://github.com/High-Order-Quarterwave-Society/C-2D-115-MM-Kick-bin/blob/main/Design-base-002.jpg)
+![C2-D-115 Mullins Mod Kickbin](https://github.com/High-Order-Quarterwave-Society/C-2D-115-MM-Kick-bin/blob/main/Design-base-002.jpg)
 
 
  #### Honorable contributers and people from all arround the world who shared their knowledge, time, testing builds, prototyping, art work, design work and so much more to the HOQWS:
